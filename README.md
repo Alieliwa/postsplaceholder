@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+// You can take the link and add it in Android Studio and then work "pub get" and run the app 
+// I sent apk tou can install it in your phone "Android only"
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
